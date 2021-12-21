@@ -1,0 +1,8 @@
+Movie series info 
+
+using: 
+- React js 
+- Redax js
+- integratet with external movies data API OMDB
+- external API to Call, fich data and use this Data inside our application 
+ 
